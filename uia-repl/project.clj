@@ -1,4 +1,4 @@
-(defproject calabash/uia-repl "0.0.8"
+(defproject calabash/uia-repl "0.0.9"
   :description "UIAutomation REPL environment for ClojureScript"
   :url "https://github.com/calabasj/uia-repl"
   :license {:name "Eclipse Public License"
